@@ -1,0 +1,4 @@
+Pillow==10.3.0
+opencv-python==4.7.0.72
+streamlit==1.36.0
+ultralytics==8.2.46
